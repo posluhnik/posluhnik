@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="63737ce0-2025-476f-b94a-0a7e407fd19a.jpg">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,45:087CA7,100:38BDF8&height=130&section=header&text=POSLUHNIK&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=C%23%20Developer%20%7C%20.NET%20%7C%20GameDev&descSize=15&descAlignY=58" alt="Posluhnik profile banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+posluhnik+%F0%9F%91%8B;C%23+%26+.NET+developer+in+progress;Building+Librarium;Learning+by+building+cool+things" alt="Animated typing intro" />
 
