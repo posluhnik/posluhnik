@@ -10,14 +10,14 @@
 
 </div>
 
----
-
 ## 🧙 About Me
 
 - 💻 Learning and building with **C# and .NET**
 - 🛠️ Currently developing **[Librarium](https://github.com/posluhnik/Librarium)** — a D&D campaign knowledge base
 - 🎮 Interested in **game development** and building useful software
 - 🌱 Improving my skills by turning ideas into real projects
+
+---
 
 ## ⚔️ Tech Stack
 
