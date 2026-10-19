@@ -2,7 +2,7 @@
 
 <img width="100%" src="baner.jpg" alt="Posluhnik profile banner">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=400&size=28&duration=2800&pause=900&color=234AAD&center=true&vCenter=true&width=650&lines=Hello+World!" alt="Decorative Gothic Intro">
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=400&size=28&duration=2800&pause=900&color=385FC7&center=true&vCenter=true&width=650&lines=Hello+World!" alt="Decorative Gothic Intro">
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-posluhnik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/posluhnik)
