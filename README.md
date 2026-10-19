@@ -6,7 +6,7 @@
 <br/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-posluhnik9-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/posluhnik9)
-[![Email](https://img.shields.io/badge/Email-напиши_мне-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:твой_email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Write_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxilnickiy@gmail.com)
 
 </div>
 
