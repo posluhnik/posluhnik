@@ -2,7 +2,7 @@
 
 <img width="100%" src="baner.jpg" alt="Posluhnik profile banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Hello+there#" alt="Animated typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=#40DFFFcenter=true&vCenter=true&width=650&lines=Hello+World!;" alt="Animated typing intro" />
 
 <br/>
 
