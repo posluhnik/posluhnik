@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="63737ce0-2025-476f-b94a-0a7e407fd19a.jpg" alt="Posluhnik profile banner" />
+<img width="100%" src="baner.jpg" alt="Posluhnik profile banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+posluhnik+%F0%9F%91%8B;C%23+%26+.NET+developer+in+progress;Building+Librarium;Learning+by+building+cool+things" alt="Animated typing intro" />
 
