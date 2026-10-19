@@ -6,7 +6,7 @@
 <br/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-posluhnik9-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/posluhnik9)
-[![Email](https://img.shields.io/badge/Email-maxilnickiy%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=maxilnickiy@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Write_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=maxilnickiy@gmail.com)
 
 </div>
 
