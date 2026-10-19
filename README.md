@@ -2,7 +2,7 @@
 
 <img width="100%" src="baner.jpg" alt="Profile banner">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=400&size=24&duration=4000&pause=1200&color=385FC7&center=true&vCenter=true&width=1400&lines=The+struggle+itself+toward+the+heights+is+enough+to+fill+a+man's+heart;One+must+imagine+Sisyphus+happy." alt="Intro text">
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=400&size=36&duration=4000&pause=1200&color=385FC7&center=true&vCenter=true&width=1900&lines=The+struggle+itself+toward+the+heights+is+enough+to+fill+a+man's+heart;One+must+imagine+Sisyphus+happy." alt="Intro text">
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-posluhnik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/posluhnik)
