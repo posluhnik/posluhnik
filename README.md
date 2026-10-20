@@ -10,7 +10,7 @@
 
 </div>
 
-## <img src="https://i.pinimg.com/736x/28/63/e2/2863e28cad406a5f48be8c6d9cf01c7c.jpg" width="20" height="20"> About Me
+## <img src="https://i.pinimg.com/736x/28/63/e2/2863e28cad406a5f48be8c6d9cf01c7c.jpg" width="40" height="40"> About Me
 
  hello hello
 
