@@ -1,4 +1,4 @@
-<img src="baner.jpg" alt="Profile banner">
+<img src="hector.png" alt="Profile image">
 <div align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=400&size=100&height=120&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=4200&lines=The+struggle+itself+toward+the+heights+is+enough+to+fill+a+man's+heart.;One+must+imagine+Sisyphus+happy.&v=height_80" alt="Intro text">
  <br/>
