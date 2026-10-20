@@ -10,8 +10,9 @@
 
 </div>
 
-<h1>
- <img src="skullIcon.png" width="40" height="40"> 
+<div>
+ <h1>
+ <img src="skullIcon.jpg" width="40" height="40"> 
  About Me
 </h1>
 hello hello
@@ -33,5 +34,7 @@ hello hello
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=posluhnik&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+
+</div>
 
 </div>
