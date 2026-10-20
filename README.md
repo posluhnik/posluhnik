@@ -17,17 +17,11 @@
 - 🎮 Interested in **game development** and building useful software
 - 🌱 Improving my skills by turning ideas into real projects
 
----
-
 ## ⚔️ Tech Stack
 
-<div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postgres,docker,git,unity,py,html,css,js&theme=dark)](https://skillicons.dev)
+<a src="youtube.com">[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postgres,docker,git,unity,py,html,css,js&theme=dark)](https://skillicons.dev)</a>
 
----
-
-</div>
 
 ## 📊 GitHub Stats
 
