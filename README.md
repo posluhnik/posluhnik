@@ -12,8 +12,8 @@
     <td align="center" valign="middle" width="30%">
       <img
       src="castlevania.jpg"
-      width="150%"
-      height="400"
+      width="190%"
+      height="600"
       alt="castlevania"
       style="object-fit: cover;"
       >
