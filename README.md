@@ -8,21 +8,25 @@
  [![Email](https://img.shields.io/badge/Email-Write_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=maxilnickiy@gmail.com)
 </div>
 
-<div>
- <h1>
-  <img src="skullIcon.png" width="40" height="40"> 
-  About Me
- </h1>
-My name is Maksym. 17 yo. 
-
-Been into programming since childhood. 
-Now i am taking it seriuosly, for past 5 month i have learned basics and not only basics of ASP.NET Web API, Docker, Postgres, HTML, CSS, JS. And using these to build mine own applications. 
-
-Can do various types of sites from just visit cards to a big bussines applications where you need to work with a lot of data. 
-Looking forward to learn new things so I build not only sites.
-
-Studying in MediaCollege Amsterdam with MBO 4 level on the second year.
-</div>
+<table>
+  <tr>
+    <td align="center" valign="middle" width="30%">
+      <img src="skullIcon.png" width="100%" alt="Skull">
+    </td>
+    <td valign="top" width="70%">
+      <h2>
+        <img src="skullIcon.png" width="40" height="40" align="absmiddle"> 
+        About Me
+      </h2>
+      <p>My name is Maksym. 17 yo.</p>
+      <p>Been into programming since childhood.<br>
+      Now i am taking it seriuosly, for past 5 month i have learned basics and not only basics of ASP.NET Web API, Docker, Postgres, HTML, CSS, JS. And using these to build mine own applications.</p>
+      <p>Can do various types of sites from just visit cards to a big bussines applications where you need to work with a lot of data.<br>
+      Looking forward to learn new things so I build not only sites.</p>
+      <p>Studying in MediaCollege Amsterdam with MBO 4 level on the second year.</p>
+    </td>
+  </tr>
+</table>
 
 <h2>
  ⚔️ Tech Stack
