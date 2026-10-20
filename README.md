@@ -26,7 +26,11 @@
   </tr>
 </table>
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">
+ <img src="skullIconEyes.png" width="40" height="40" align="absmiddle"> 
+ Tech Stack
+ <img src="skullIconEyes.png" width="40" height="40" align="absmiddle"> 
+</h2>
 <div align="center">
  <a href="https://www.youtube.com">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postgres,docker,git,unity,py,html,css,js&theme=dark" alt="My Skills">
