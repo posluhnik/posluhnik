@@ -17,12 +17,12 @@
         <img src="skullIcon.png" width="40" height="40" align="absmiddle"> 
         About Me
       </h2>
-      <p>My name is Maksym. 17 yo.</p>
-      <p>Been into programming since childhood.<br>
-      Now i am taking it seriuosly, for past 5 month i have learned basics and not only basics of ASP.NET Web API, Docker, Postgres, HTML, CSS, JS. And using these to build mine own applications.</p>
-      <p>Can do various types of sites from just visit cards to a big bussines applications where you need to work with a lot of data.<br>
-      Looking forward to learn new things so I build not only sites.</p>
-      <p>Studying in MediaCollege Amsterdam with MBO 4 level on the second year.</p>
+      <p>My name is Maksym, 17 years old.</p>
+      <p>I've been into programming since childhood, and now I'm taking it seriously. Over the past 5 months, I’ve learned the basics (and more!) of ASP.NET Web API, Docker, Postgres, HTML, CSS, and JS, and I use these tools to build my own applications.</p>
+      <p>I can build various types of websites—from simple business cards to large business applications that handle heavy data loads.</p>
+      <p>I'm always looking forward to learning new things so I can build much more than just websites.</p>
+
+<p>Studying at MediaCollege Amsterdam, MBO level 4, second year.</p>
     </td>
   </tr>
 </table>
