@@ -17,9 +17,8 @@
 - 🎮 Interested in **game development** and building useful software
 - 🌱 Improving my skills by turning ideas into real projects
 
+<h2>⚔️ Tech Stack</h2>
 <div align="center">
-  <h2>⚔️ Tech Stack</h2>
-
   <a href="https://www.youtube.com">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postgres,docker,git,unity,py,html,css,js&theme=dark" alt="My Skills">
   </a>
