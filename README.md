@@ -11,7 +11,7 @@
 </div>
 
 <h1>
- <img src="https://i.pinimg.com/1200x/a4/36/22/a4362223e05774fde9d92c6bf6278ba3.jpg" width="40" height="40" align="center"> 
+ <img src="https://i.pinimg.com/1200x/a4/36/22/a4362223e05774fde9d92c6bf6278ba3.jpg" width="40" height="40"> 
  About Me
 </h1>
 hello hello
