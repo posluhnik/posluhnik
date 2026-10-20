@@ -11,16 +11,16 @@
 </div>
 
 <h1>
- <img src="https://i.pinimg.com/1200x/a4/36/22/a4362223e05774fde9d92c6bf6278ba3.jpg" width="40" height="40"> 
+ <img src="https://i.pinimg.com/1200x/a4/36/22/a4362223e05774fde9d92c6bf6278ba3.jpg" width="40" height="40" align="center"> 
  About Me
 </h1>
- hello hello
+hello hello
 
 <h2>⚔️ Tech Stack</h2>
 <div align="center">
-  <a href="https://www.youtube.com">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postgres,docker,git,unity,py,html,css,js&theme=dark" alt="My Skills">
-  </a>
+ <a href="https://www.youtube.com">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postgres,docker,git,unity,py,html,css,js&theme=dark" alt="My Skills">
+ </a>
 </div>
 
 ## 📊 GitHub Stats
