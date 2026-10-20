@@ -10,13 +10,7 @@
 <table>
   <tr>
     <td align="center" valign="middle" width="30%">
-      <img
-      src="castlevania.jpg"
-      width="190%"
-      height="600"
-      alt="castlevania"
-      style="object-fit: cover;"
-      >
+      <img src="castlevania.jpg" width="100%" alt="castlevania">
     </td>
     <td valign="top" width="70%">
       <h2>
