@@ -1,11 +1,11 @@
-
-<img width="100%" src="baner.jpg" alt="Profile banner">
-
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=400&size=100&height=120&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=4200&lines=The+struggle+itself+toward+the+heights+is+enough+to+fill+a+man's+heart.;One+must+imagine+Sisyphus+happy.&v=height_80" alt="Intro text">
-<br/>
-
-[![Telegram](https://img.shields.io/badge/Telegram-posluhnik9-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/posluhnik9)
-[![Email](https://img.shields.io/badge/Email-Write_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=maxilnickiy@gmail.com)
+<div align="center">
+ <img width="100%" src="baner.jpg" alt="Profile banner">
+ 
+ <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=400&size=100&height=120&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=4200&lines=The+struggle+itself+toward+the+heights+is+enough+to+fill+a+man's+heart.;One+must+imagine+Sisyphus+happy.&v=height_80" alt="Intro text">
+ <br/>
+ 
+ [![Telegram](https://img.shields.io/badge/Telegram-posluhnik9-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/posluhnik9)
+ [![Email](https://img.shields.io/badge/Email-Write_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=maxilnickiy@gmail.com)
 </div>
 
 <div>
@@ -18,7 +18,7 @@ Been into programming since childhood. Now i am taking it seriuosly, for past 5 
 Can do various types of sites from just visit cards to a big bussines applications where you need to work with a lot of data. 
 Looking forward to learn new things so I build not only sites.
 Studying in MediaCollege Amsterdam with MBO 4 level on the second year.
-
+</div>
 
 <h2>
  ⚔️ Tech Stack
