@@ -12,10 +12,7 @@
 
 ## 🧙 About Me
 
-- 💻 Learning and building with **C# and .NET**
-- 🛠️ Currently developing **[Librarium](https://github.com/posluhnik/Librarium)** — a D&D campaign knowledge base
-- 🎮 Interested in **game development** and building useful software
-- 🌱 Improving my skills by turning ideas into real projects
+<img src="https://i.pinimg.com/736x/28/63/e2/2863e28cad406a5f48be8c6d9cf01c7c.jpg" width="20" height="20" align="center"> hello hello
 
 <h2>⚔️ Tech Stack</h2>
 <div align="center">
