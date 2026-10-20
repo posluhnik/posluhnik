@@ -10,9 +10,9 @@
 
 </div>
 
-## 🧙 About Me
+## <img src="https://i.pinimg.com/736x/28/63/e2/2863e28cad406a5f48be8c6d9cf01c7c.jpg" width="20" height="20" align="center"> About Me
 
-<img src="https://i.pinimg.com/736x/28/63/e2/2863e28cad406a5f48be8c6d9cf01c7c.jpg" width="20" height="20" align="center"> hello hello
+ hello hello
 
 <h2>⚔️ Tech Stack</h2>
 <div align="center">
