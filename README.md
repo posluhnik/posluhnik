@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td align="center" valign="middle" width="30%">
-      <img src="skullIcon.png" width="100%" alt="Skull">
+      <img src="castlevania.jpg" width="100%" alt="Skull">
     </td>
     <td valign="top" width="70%">
       <h2>
