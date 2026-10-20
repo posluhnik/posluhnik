@@ -15,7 +15,7 @@
     </td>
     <td valign="top" width="70%">
       <h2>
-        <img src="skullIcon.png" width="40" height="40" align="absmiddle"> 
+        <img src="skullIcon.png" width="40" height="40"> 
         About Me
       </h2>
       <p>My name is Maksym. 17 yo.</p>
