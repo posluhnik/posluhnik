@@ -10,10 +10,10 @@
  
  <div>
   <h1>
-   <img src="skullIcon.pngg" width="40" height="40"> 
+   <img src="skullIcon.png" width="40" height="40"> 
    About Me
   </h1>
- hello hello
+ 
  
  <h2>
   ⚔️ Tech Stack
