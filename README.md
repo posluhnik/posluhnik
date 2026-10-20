@@ -25,6 +25,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postgres,docker,git,github,unity&theme=dark)](https://skillicons.dev)
 
+---
+
 </div>
 
 ## 📊 GitHub Stats
