@@ -23,7 +23,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postgres,docker,git,github,unity&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postgres,docker,git,unity,py,html,css,js&theme=dark)](https://skillicons.dev)
 
 ---
 
