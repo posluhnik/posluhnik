@@ -18,7 +18,8 @@
         About Me
       </h2>
       <p>My name is Maksym, 17 yo.</p>
-      <p>I've been into programming since childhood, and now I'm taking it seriously. Over the past 5 months, I’ve learned the basics (and more) of ASP.NET Web API, Docker, Postgres. And now i am learning HTML, CSS, JS too.</p>
+      <p>I've been into programming since childhood, and now I'm taking it seriously. Over the past 6 months, I’ve learned the basics (and more) of ASP.NET Web API, Docker, Postgres. And now i am learning HTML, CSS, JS too.</p>
+     <p>I have build mine own Debian server on mine old pc. Now i am using it as host for mine sites and storage for mine videos. </p>
       <p>I'm learning how to build various types of websites from simple business cards to large business applications that handle heavy data loads.</p>
       <p>I'm always looking forward to learning new things so I can build much more than just websites.</p>
       <p>Studying at MediaCollege Amsterdam, MBO level 4, second year.</p>
